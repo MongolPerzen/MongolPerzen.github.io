@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mongol Perzen</title>
-    <link>https://example.org/categories/</link>
+    <link>https://mongolperzen.github.io/categories/</link>
     <description>Recent content in Categories on Mongol Perzen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <copyright>© {year}</copyright><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© {year}</copyright><atom:link href="https://mongolperzen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
