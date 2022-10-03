@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>previaggio on Mongol Perzen</title>
-    <link>https://mongolperzen.github.io/tags/previaggio/</link>
-    <description>Recent content in previaggio on Mongol Perzen</description>
+    <title>lavori on Mongol Perzen</title>
+    <link>https://mongolperzen.github.io/tags/lavori/</link>
+    <description>Recent content in lavori on Mongol Perzen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Sun, 18 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mongolperzen.github.io/tags/previaggio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mongolperzen.github.io/tags/lavori/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lavori sulla ruggine</title>
       <link>https://mongolperzen.github.io/blog/lavori-ruggine/</link>
@@ -17,16 +17,6 @@
       <description>Stiamo lavorando duramente per preparare le nostre panda per la revisione e poi per il viaggio.
 Abbiamo iniziato rimuovendo la ruggine dalla carrozzeria che era uno dei problemi maggiori dell&amp;rsquo;auto.
 Ora è perfetta, pronta per la verniciatura e ad affrontare il viaggio!</description>
-    </item>
-    
-    <item>
-      <title>Seconda macchina</title>
-      <link>https://mongolperzen.github.io/blog/seconda-macchina/</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mongolperzen.github.io/blog/seconda-macchina/</guid>
-      <description>Dopo 12 mesi di attesa ed infinite peripezie finalmente ci sono tutte e due. Tom &amp;amp; Jerry
-Anche &amp;ldquo;Jerry&amp;rdquo; è una panda, anno 2000, 900 cc, 4x2 e viene da Comacchio insieme ad uno spettacolare dipinto sul cofano!</description>
     </item>
     
     <item>
@@ -41,18 +31,6 @@ Per fortuna non era niente di grave. Era colpa della pompa di benzina che abbiam
     </item>
     
     <item>
-      <title>Prima festa</title>
-      <link>https://mongolperzen.github.io/blog/prima-festa/</link>
-      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mongolperzen.github.io/blog/prima-festa/</guid>
-      <description>View this post on Instagram A post shared by MongolPerzen (@mongolperzen2023)
-MongolPerzen ha organizzato una serata a scopo benefico e siamo stati ospitati all&amp;rsquo;interno della foresta di bambù di Logical Forest.
-Abbiamo preparato birra, spritz, pasta e arrosticini: tutto il ricavato sarà devoluto in beneficenza!
-Grazie a tutti i numerosi partecipanti per la bellissima serata e le firme sulla panda, alla prossima serata!</description>
-    </item>
-    
-    <item>
       <title>Prima macchina</title>
       <link>https://mongolperzen.github.io/blog/prima-macchina/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
@@ -62,17 +40,6 @@ Grazie a tutti i numerosi partecipanti per la bellissima serata e le firme sulla
 Ora è arrivato finalmente il momento di mettersi al lavoro sulle auto, c&amp;rsquo;è molto da fare per prepararle ad affrontare il viaggio ma abbiamo ancora più di un anno.
 Ci siamo subito accorti che il radiatore perdeva e lo abbiamo cambiato.
 Per il resto la macchina con soli 120.000 km sembra in ottimo stato, ma avremo tempo di controllarla da cima a fondo, smontandola e rimontandola, prima della partenza</description>
-    </item>
-    
-    <item>
-      <title>Iscrizione</title>
-      <link>https://mongolperzen.github.io/blog/iscrizione/</link>
-      <pubDate>Sat, 10 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://mongolperzen.github.io/blog/iscrizione/</guid>
-      <description>Oggi ci siamo iscritti al MongolRally 2023 e abbiamo iniziato questa avventura straordinaria.
-Vi presentiamo il nostro team (da destra):
-Davide Mattia Matteo Lorenzo (Chef) Marco Nicolò 6 ragazzi, 2 auto, 1 team, 20+ paesi, 40 giorni, 17000km</description>
     </item>
     
   </channel>
